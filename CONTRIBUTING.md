@@ -1,7 +1,7 @@
 ## The Goal
 Our goal is not to have the biggest list of everything available out there.
 Our goal is to have a list of things that anybody would have to learn if they were to enter the field today. 
-
+hiiiiiiiiiii
 ## Contributing
 
 Your contributions to this repo are always welcome!
